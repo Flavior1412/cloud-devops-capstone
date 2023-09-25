@@ -2,7 +2,7 @@
 
 
 ### CircleCI Status
-[![<CircleCI>](https://circleci.com/gh/hoai97nam/udacity-capstone.svg?style=svg)](https://github.com/Flavior1412/cloud-devops-capstone)
+[![<CircleCI>](https://circleci.com/gh/Flavior1412/cloud-devops-capstone.svg?style=svg)](https://github.com/Flavior1412/cloud-devops-capstone)
 
 ### License
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
